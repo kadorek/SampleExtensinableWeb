@@ -1,0 +1,16 @@
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\bin\Debug\net8.0\SumModule.deps.json
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\bin\Debug\net8.0\SumModule.dll
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\bin\Debug\net8.0\SumModule.pdb
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\bin\Debug\net8.0\ExtensionInfrastructure.dll
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\bin\Debug\net8.0\ExtensionInfrastructure.pdb
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\obj\Debug\net8.0\SumModule.csproj.AssemblyReference.cache
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\obj\Debug\net8.0\SumModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\obj\Debug\net8.0\SumModule.AssemblyInfoInputs.cache
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\obj\Debug\net8.0\SumModule.AssemblyInfo.cs
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\obj\Debug\net8.0\SumModule.csproj.CoreCompileInputs.cache
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\obj\Debug\net8.0\SumModule.sourcelink.json
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\obj\Debug\net8.0\SumModule.csproj.Up2Date
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\obj\Debug\net8.0\SumModule.dll
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\obj\Debug\net8.0\refint\SumModule.dll
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\obj\Debug\net8.0\SumModule.pdb
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\SumModule\obj\Debug\net8.0\ref\SumModule.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SumModule/1.0.0": {
+        "dependencies": {
+          "ExtensionInfrastructure": "1.0.0"
+        },
+        "runtime": {
+          "SumModule.dll": {}
+        }
+      },
+      "ExtensionInfrastructure/1.0.0": {
+        "runtime": {
+          "ExtensionInfrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtensionInfrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

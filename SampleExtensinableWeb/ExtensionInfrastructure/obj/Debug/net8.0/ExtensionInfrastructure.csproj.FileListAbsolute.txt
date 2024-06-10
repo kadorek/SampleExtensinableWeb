@@ -1,0 +1,12 @@
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\bin\Debug\net8.0\ExtensionInfrastructure.deps.json
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\bin\Debug\net8.0\ExtensionInfrastructure.dll
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\bin\Debug\net8.0\ExtensionInfrastructure.pdb
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\obj\Debug\net8.0\ExtensionInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\obj\Debug\net8.0\ExtensionInfrastructure.AssemblyInfoInputs.cache
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\obj\Debug\net8.0\ExtensionInfrastructure.AssemblyInfo.cs
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\obj\Debug\net8.0\ExtensionInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\obj\Debug\net8.0\ExtensionInfrastructure.sourcelink.json
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\obj\Debug\net8.0\ExtensionInfrastructure.dll
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\obj\Debug\net8.0\refint\ExtensionInfrastructure.dll
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\obj\Debug\net8.0\ExtensionInfrastructure.pdb
+C:\Users\KadoreK HP\source\repos\kadorek\SampleExtensinableWeb\SampleExtensinableWeb\ExtensionInfrastructure\obj\Debug\net8.0\ref\ExtensionInfrastructure.dll
